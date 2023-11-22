@@ -16,7 +16,7 @@ h2{
     padding-bottom: 1rem;
 }
 main{
-    display: grid;
+    /* display: grid;*/
     grid-template-columns: 40% 60%;
     margin-top: 3rem;
 }
